@@ -14,7 +14,8 @@ A serverless solution for cryptocurrency tax calculation, providing an efficient
 - Ensuring efficient performance for concurrent requests.
 
 ## 🛠️ Architecture
-(Complete this section)
+![Crypto Tax Serverless System drawio](https://github.com/user-attachments/assets/fe4f131b-6696-4d4b-8b3c-c529fbe1569e)
+
 
 ## 💻 Tech Stack
 (Complete this section)
